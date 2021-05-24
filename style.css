@@ -1,0 +1,44 @@
+
+.carousel-control-next, .carousel-control-prev {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 15%;
+	color: ;
+	text-align: center;
+	opacity: ;
+	transition: opacity .15s ease;
+	background: transparent;
+	border: 1px solid transparent;
+}
+.imagess{}
+.imagess img{
+    max-width: 100%;
+}
+.margin1{
+    margin-top: 30px;
+}
+.selectcustom {
+	width: 224px;
+}
+.imgg{
+    height: 754px;
+}
+
+.btnnn {
+	-webkit-appearance: button;
+	margin: 0 10px;
+	margin-bottom: 61px;
+	width: 40px;
+	background: #fff;
+	border: 1px solid #fff;
+	opacity: .5;
+}
+
+.btnnn:first-child{
+    color: #fff;
+}
